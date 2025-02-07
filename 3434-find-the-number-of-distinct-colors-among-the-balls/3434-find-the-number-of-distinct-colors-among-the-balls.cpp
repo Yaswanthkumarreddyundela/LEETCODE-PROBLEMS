@@ -1,31 +1,28 @@
 class Solution {
 public:
-    static vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-        const unsigned n=queries.size();
-        vector<int> ans(n, 0);
-        unordered_map<unsigned, unsigned> mp;
-        unordered_map<unsigned, unsigned> color;
-        int i=0;
-        for (auto& q: queries){
-            unsigned x=q[0], c=q[1];
-            if (mp.count(x)>0){
-                unsigned c0=mp[x];
-                if (--color[c0]==0) //this can speed up
-                    color.erase(c0);
+    vector<int> queryResults(int limit, vector<vector<int>>& queries) {
+        map<int, set<int>> mpp;
+        map<int, int> mp;
+        vector<int> ans;
+        for(auto it: queries){
+            int color = it[1];
+            int ball = it[0];
+
+            if(mp.find(ball) == mp.end()){
+                mp[ball] = color;
+                mpp[color].insert(ball);
             }
-            mp[x]=c;
-            color[c]++;
-            ans[i++]=color.size();
+            else{
+                int c = mp[ball];
+                mpp[c].erase(ball);
+                if(mpp[c].empty()) {
+                    mpp.erase(c);
+                }
+                mp[ball] = color;
+                mpp[color].insert(ball);
+            }
+            ans.push_back(mpp.size());
         }
         return ans;
     }
 };
-
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 0;
-}();
