@@ -6,6 +6,7 @@
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,9 @@
 |  |
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Simulation
+|  |
+| ------- |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 <!---LeetCode Topics End-->
