@@ -3,7 +3,7 @@ public:
     string clearDigits(string s) {
         string updated ="";
         for(char ch : s){
-            if(isdigit(ch)){
+            if (isdigit(ch) && !updated.empty()) {
                 updated.pop_back();
             }
             else{
