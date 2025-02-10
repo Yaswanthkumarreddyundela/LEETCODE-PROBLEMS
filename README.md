@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
 ## Counting
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
