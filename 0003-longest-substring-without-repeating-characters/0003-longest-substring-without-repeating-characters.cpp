@@ -1,18 +1,19 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> seen;
-        int left = 0, max1 = 0;
+        string lss = "";
+        int max1=0;
+        for(char ch : s){
+            if(lss.find(ch) == std::string::npos){
+                lss.push_back(ch);
+                max1= max(max1 , static_cast<int>(lss.length()));
 
-        for (int right = 0; right < s.length(); right++) {
-            while (seen.count(s[right])) {
-                seen.erase(s[left]);
-                left++;
             }
-            seen.insert(s[right]);
-            max1 = max(max1, right - left + 1);
+            else{
+                lss = lss.erase(0,lss.find(ch)+1);
+                lss.push_back(ch);
+            }
         }
-
         return max1;
     }
 };
