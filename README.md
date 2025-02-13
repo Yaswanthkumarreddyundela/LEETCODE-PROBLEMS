@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -72,4 +73,12 @@
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
