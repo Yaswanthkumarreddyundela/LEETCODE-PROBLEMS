@@ -11,7 +11,7 @@ public:
             pt.pop();
             long long y = pt.top();
             pt.pop();
-            pt.push(x*2+y);
+            pt.emplace(x*2+y);
             count++;
         }
         return count;
