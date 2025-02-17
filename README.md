@@ -36,6 +36,7 @@
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2350-find-closest-number-to-zero](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
