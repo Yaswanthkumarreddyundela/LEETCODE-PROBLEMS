@@ -8,8 +8,6 @@ public:
         
         return backtrack(freq);
     }
-
-private:
     int backtrack(unordered_map<char, int>& freq) {
         int count = 0;
         for (auto& [ch, val] : freq) {
