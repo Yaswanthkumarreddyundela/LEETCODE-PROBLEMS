@@ -1,20 +1,17 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
-        string result;
+        string ans;
         stack<int> st;
-
-        for (int i = 0; i <= pattern.length(); i++) {
-            st.push(i + 1);
-
-            // If we reach 'I' or the end of the pattern, pop from the stack
-            if (i == pattern.length() || pattern[i] == 'I') {
-                while (!st.empty()) {
-                    result += to_string(st.top());
+        for(int i=0;i<=pattern.size();i++){
+            st.push(i+1);
+            if(pattern[i] == 'I' || i == pattern.size()){
+                while(!st.empty()){
+                    ans += to_string(st.top());
                     st.pop();
                 }
             }
         }
-        return result;
+        return ans;
     }
 };
