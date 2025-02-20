@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [1160-letter-tile-possibilities](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1894-merge-strings-alternately) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
