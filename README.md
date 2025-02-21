@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
