@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1894-merge-strings-alternately](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1894-merge-strings-alternately) |
@@ -134,10 +135,12 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -146,6 +149,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
 |  |
