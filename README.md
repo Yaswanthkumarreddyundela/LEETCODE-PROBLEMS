@@ -135,20 +135,24 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
