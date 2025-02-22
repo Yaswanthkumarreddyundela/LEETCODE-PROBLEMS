@@ -11,35 +11,50 @@
  */
 class Solution {
 public:
-    TreeNode* solve(string s, int& i, int depth) {
-        int n = s.size();
-        if (i >= n)
-            return NULL;
-        
-        int j = i;
-        while (j < n && s[j] == '-') {
-            j++;
-        }
-        int dash = j - i;
-        
-        if (dash != depth)
-            return NULL;
-        
-        i += dash;
-        int num = 0;
-        while (i < n && isdigit(s[i])) {
-            num = num * 10 + (s[i] - '0');
-            i++;
-        }
-        
-        TreeNode* root = new TreeNode(num);
-        root->left = solve(s, i, depth + 1);
-        root->right = solve(s, i, depth + 1);
-        return root;
-    }
-    
     TreeNode* recoverFromPreorder(string traversal) {
-        int i = 0;
-        return solve(traversal, i, 0);
+        stack<TreeNode*> st;
+        int i = 0, n = traversal.size();
+
+        while (i < n) {
+            int depth = 0;
+
+            // Count dashes to determine depth
+            while (i < n && traversal[i] == '-') {
+                depth++;
+                i++;
+            }
+
+            // Extract multi-digit number
+            int num = 0;
+            while (i < n && isdigit(traversal[i])) {
+                num = num * 10 + (traversal[i] - '0');
+                i++;
+            }
+
+            // Create a new node
+            TreeNode* node = new TreeNode(num);
+
+            // Ensure stack maintains correct depth
+            while (st.size() > depth) 
+                st.pop();
+
+            // Attach to the parent
+            if (!st.empty()) {
+                if (!st.top()->left) {
+                    st.top()->left = node;
+                } else {
+                    st.top()->right = node;
+                }
+            }
+
+            // Push new node onto stack
+            st.push(node);
+        }
+
+        // Root node is at the bottom of the stack
+        while (st.size() > 1) 
+            st.pop();
+
+        return st.top();
     }
 };
