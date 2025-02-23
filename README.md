@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -45,6 +46,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -156,6 +160,7 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
