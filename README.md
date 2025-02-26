@@ -54,6 +54,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2107-find-unique-binary-string) |
 | [2350-find-closest-number-to-zero](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2350-find-closest-number-to-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
@@ -181,6 +182,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Graph
 |  |
 | ------- |
