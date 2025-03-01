@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0782-jewels-and-stones](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -54,6 +55,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -117,6 +119,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
