@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -27,6 +28,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0782-jewels-and-stones) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -42,6 +44,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
