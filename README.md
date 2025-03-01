@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -28,6 +29,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0782-jewels-and-stones) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
