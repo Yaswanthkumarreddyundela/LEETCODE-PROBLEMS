@@ -6,12 +6,10 @@ public:
             mag[i]++;
         }
         for(char i : ransomNote){
-            if(mag[i] >0){
-                mag[i]--;
-            }
-            else{
+            if(mag[i] <=0){
                 return false;
             }
+            mag[i]--;
         }
         return true;
     }
