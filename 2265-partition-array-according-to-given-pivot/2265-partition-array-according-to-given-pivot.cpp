@@ -1,27 +1,22 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        int count=0;
-        vector<int> ans;
-        for(int i : nums){
-            if(pivot>i){
-                ans.push_back(i);
-            }
-            else if(i == pivot){
-                count++;
-            }
+        vector<int> smaller, equal, greater;
+        
+        // Categorize elements
+        for (int num : nums) {
+            if (num < pivot) 
+                smaller.push_back(num);
+            else if (num == pivot) 
+                equal.push_back(num);
+            else 
+                greater.push_back(num);
         }
-        if(count >0){
-            for(int i=0;i<count;i++){
-                ans.push_back(pivot);
-            }
-        }
-        for(int i : nums){
-            if(pivot<i){
-                ans.push_back(i);
-            }
-        }
-        return ans;
-
+        
+        // Concatenate results
+        smaller.insert(smaller.end(), equal.begin(), equal.end());
+        smaller.insert(smaller.end(), greater.begin(), greater.end());
+        
+        return smaller;
     }
 };
