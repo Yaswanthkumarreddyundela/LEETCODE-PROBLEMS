@@ -5,7 +5,7 @@ public:
         unordered_map<int,int> check;
         for( int i=0;i<nums.size();i++){
             int key = target - nums[i];
-            if(check.count(key) ==1){
+            if(check.find(key) != check.end()){
                 sum.push_back(i);
                 sum.push_back(check[key]);
             }
