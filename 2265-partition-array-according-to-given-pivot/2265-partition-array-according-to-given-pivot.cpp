@@ -1,28 +1,27 @@
 class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
-        int n = nums.size();
-        vector<int> result(n); // Auxiliary array to avoid extra vector storage
-        int left = 0, right = n - 1, pivotCount = 0;
-
-        // Count pivot occurrences and place elements less than pivot
-        for (int num : nums) {
-            if (num < pivot) 
-                result[left++] = num;
-            else if (num == pivot) 
-                pivotCount++;
+        int count=0;
+        vector<int> ans;
+        for(int i : nums){
+            if(pivot>i){
+                ans.push_back(i);
+            }
+            else if(i == pivot){
+                count++;
+            }
         }
-
-        // Place pivot elements
-        for (int i = 0; i < pivotCount; i++) 
-            result[left++] = pivot;
-
-        // Place elements greater than pivot
-        for (int num : nums) {
-            if (num > pivot) 
-                result[left++] = num;
+        if(count >0){
+            for(int i=0;i<count;i++){
+                ans.push_back(pivot);
+            }
         }
+        for(int i : nums){
+            if(pivot<i){
+                ans.push_back(i);
+            }
+        }
+        return ans;
 
-        return result; // Return modified array
     }
 };
