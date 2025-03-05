@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
@@ -51,6 +52,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1160-letter-tile-possibilities) |
 | [1297-maximum-number-of-balloons](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1297-maximum-number-of-balloons) |
@@ -67,6 +69,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
@@ -137,6 +140,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -148,6 +152,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Data Stream
 |  |
