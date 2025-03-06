@@ -26,6 +26,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -88,6 +89,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
@@ -125,6 +127,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [3227-find-missing-and-repeated-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
