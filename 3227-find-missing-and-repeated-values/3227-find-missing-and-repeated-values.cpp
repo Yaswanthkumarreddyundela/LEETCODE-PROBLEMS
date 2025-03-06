@@ -15,7 +15,7 @@ public:
                 }
             }
         }
-        ts = rep+(ts-sum);
-        return {rep,ts} ;
+        
+        return {rep,rep+(ts-sum)} ;
     }
 };
