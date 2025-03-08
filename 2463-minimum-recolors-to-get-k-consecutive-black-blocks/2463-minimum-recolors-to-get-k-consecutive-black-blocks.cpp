@@ -10,15 +10,9 @@ public:
         }
         int mini = count;
         for(int i=1;i<=n-k;i++){
-            if(blocks[i-1] == 'B' && blocks[k-1+i] == 'W'){
-                count++;
-            }
-            if(blocks[i-1] == 'W' && blocks[k-1+i] == 'B'){
-                count--;
-            }
-            if(mini > count){
-                mini=count;
-            }
+            if(blocks[i+k-1] == 'W') count++;
+            if(blocks[i-1] == 'W') count--;
+            mini = min(count,mini);
         }
         return mini;
 
