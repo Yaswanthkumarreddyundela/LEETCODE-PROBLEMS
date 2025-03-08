@@ -79,6 +79,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -151,6 +152,7 @@
 | [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
+| [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2551-apply-operations-to-an-array) |
