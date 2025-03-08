@@ -4,9 +4,7 @@ public:
         char temp;
         int n = s.size();
         for(int i=0;i<n/2;i++){
-            temp = s[i];
-            s[i] = s[n-i-1];
-            s[n-i-1] = temp;
+            swap(s[i] , s[n-1-i]);
         }
         for(char ch : s){
             cout<<ch ;
