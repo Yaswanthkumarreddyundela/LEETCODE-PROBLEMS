@@ -74,6 +74,7 @@
 | [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
