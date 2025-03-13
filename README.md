@@ -105,6 +105,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
