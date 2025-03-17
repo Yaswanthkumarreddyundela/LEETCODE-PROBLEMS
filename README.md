@@ -77,6 +77,7 @@
 | [0001-two-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0344-reverse-string) |
@@ -265,6 +268,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0392-is-subsequence) |
@@ -292,4 +296,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2308-divide-array-into-equal-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
