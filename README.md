@@ -89,6 +89,7 @@
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0682-baseball-game](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2551-apply-operations-to-an-array) |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0682-baseball-game](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0682-baseball-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
