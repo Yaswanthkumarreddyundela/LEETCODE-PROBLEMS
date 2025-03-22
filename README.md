@@ -262,12 +262,14 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0101-symmetric-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | ------- |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Trie
 |  |
@@ -304,6 +307,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [2793-count-the-number-of-complete-components](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Bit Manipulation
 |  |
