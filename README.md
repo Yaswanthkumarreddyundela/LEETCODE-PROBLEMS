@@ -102,6 +102,7 @@
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2107-find-unique-binary-string) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2308-divide-array-into-equal-pairs) |
@@ -156,6 +157,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2649-count-total-number-of-colored-cells) |
@@ -187,6 +189,7 @@
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/1019-squares-of-a-sorted-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3430-count-days-without-meetings](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -250,6 +253,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/0073-set-matrix-zeroes) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
