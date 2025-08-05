@@ -133,6 +133,7 @@
 | [3483-alternating-groups-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3790-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarreddyundela/LEETCODE-PROBLEMS/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
